@@ -1,0 +1,4 @@
+runs/
+checkpoints/
+.idea/
+*.pyc
